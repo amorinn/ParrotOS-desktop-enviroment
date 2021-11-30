@@ -277,6 +277,8 @@ Para seleccionar **bspwm** clickamos encima del circulo blanco que nos aparece e
 
 Una vez dentro se verá todo en negro, al pulsar **super + enter** se nos abrirá una terminal.
 > Siendo "super" la tecla de windows
+> 
+> Para conectarse a internet escribe ```nmcli device wifi``` para ver las redes disponibles y ```nmcli device wifi connect "TU WIFI" password "CONTRASEÑA"```
 
 ### 10. Instalamos la Hack Nerd Font.
 Ejecutamos los siguientes comandos:
