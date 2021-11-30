@@ -1,4 +1,4 @@
-#ParrotOS desktop enviroment.
+# ParrotOS desktop enviroment.
 Esta es una guía basada en [este](https://youtu.be/mHLwfI1nHHY) video de @s4vitar, no es con intención de hacer un plagio, es con intención de aprender y hacerle la vida un poquito más fácil a la gente.
 
 [Aquí](https://pastebin.com/EEX1Dsuq) está el pastebin original.
