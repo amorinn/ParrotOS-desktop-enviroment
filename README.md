@@ -4,8 +4,9 @@ Esta es una guía basada en [este](https://youtu.be/mHLwfI1nHHY) video de @s4vit
 [Aquí](https://pastebin.com/EEX1Dsuq) está el pastebin original.
 
 ### 1. Actualizamos el sistema.
-```bash
-sudo apt upgrade```
+```bash 
+sudo apt upgrade 
+```
 Esto lleva un rato...
 ### 2. Clonamos este repositorio.
 ```bash
