@@ -1,3 +1,8 @@
+#ParrotOS desktop enviroment.
+Esta es una guía basada en [este](https://youtu.be/mHLwfI1nHHY) video de @s4vitar, no es con intención de hacer un plagio, es con intención de aprender y hacerle la vida un poquito más fácil a la gente.
+
+[Aquí](https://pastebin.com/EEX1Dsuq) está el pastebin original.
+
 ### 1. Actualizamos el sistema.
 ```bash
 sudo apt upgrade
@@ -304,6 +309,8 @@ y ya tendríamos las Hack Nerd fonts instaladas, ahora nos dirigimos al apartado
 echo "feh --bg-fill /ruta/al/fondo.jpg" >> ~/.config/bspwm/bspwmrc
 ```
 > Siendo "/ruta/al/fondo" la ruta a nuestro fondo.
+> Si quieres puedes utilizar el que ya viene en ~/Descargas/ParrotOS-desktop-enviroment.
+
 ### 12. Configuramos la polybar.
 ```bash
 cd ~/Descargas
@@ -329,6 +336,7 @@ sudo cp * /usr/share/fonts/truetype/
 fc-cache -v
 ```
 Pulsamos **super + r** para ver la polybar.
+> [Aquí](https://github.com/PrayagS/polybar-spotify) puedes aprender a hacer un módulo para spotify.
 
 ### 13. Configuramos picom.
 ```bash
