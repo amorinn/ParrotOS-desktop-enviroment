@@ -5,8 +5,7 @@ Esta es una guía basada en [este](https://youtu.be/mHLwfI1nHHY) video de @s4vit
 
 ### 1. Actualizamos el sistema.
 ```bash
-sudo apt upgrade
-```
+sudo apt upgrade```
 Esto lleva un rato...
 ### 2. Clonamos este repositorio.
 ```bash
