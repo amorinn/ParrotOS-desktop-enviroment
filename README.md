@@ -483,3 +483,6 @@ cat aliases >> ~/.zshrc
 ```
 
 ## Resultados.
+![1](https://user-images.githubusercontent.com/83926750/144131700-9fdf4bfd-c6be-4890-8c1c-829981b38654.jpg)
+![3](https://user-images.githubusercontent.com/83926750/144131787-689a4792-3918-486d-9135-b609b0273067.jpg)
+
